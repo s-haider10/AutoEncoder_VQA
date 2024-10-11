@@ -1,5 +1,7 @@
 # Advanced Visual Question Answering with BLIP-VQA and Custom Models
 
+Syed Ali Haider & Junyi Li
+
 This repository contains the code and resources for advancing Visual Question Answering (VQA) through a dual-stage training approach that integrates cutting-edge techniques. The project fine-tunes the BLIP-VQA model with Low-Rank Adaptation (LoRA) layers and develops a custom VQA model leveraging the Masked Autoencoder's (MAE) Vision Transformer (ViT) for image representation and a pre-trained BERT model for text processing. Cross-attention mechanisms are applied to improve model performance in understanding and answering visual questions.
 
 ## Project Overview
