@@ -113,6 +113,3 @@ We thank the NYU HPC for their resources and the Dean Undergraduate Research Fun
 ## License
 
 This project is licensed under the MIT License
-```
-
-This `README.md` outlines the project’s objectives, contributions, installation instructions, usage, and model architecture in a clear and structured format. Feel free to adjust any specific details to match your project!
